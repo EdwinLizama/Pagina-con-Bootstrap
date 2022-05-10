@@ -1,0 +1,77 @@
+.avatar-img
+{
+    width: 40px;
+    height: 40px;
+}
+.port
+{
+    height: 80px;
+}
+.imagen{
+    height: 100px;
+    width: 100px;
+}
+.soli{
+    height: 70px;
+    width: 70px;
+}
+body
+{
+    background-color: rgb(214, 214, 214);
+}
+.historia
+{
+  width: 130px;
+  height: 150px;
+}
+.carousel{
+    padding-bottom: 20px;
+}
+
+.nav-item{
+    padding-left: 15px;
+}
+
+.dropzone-custom.dz-clickable .dz-message, .dropzone.dz-clickable .dz-message * {
+    cursor: pointer;
+}   
+.display-3 {
+    font-size: calc(1.525rem + 3.3vw);
+    font-weight: 700;
+    line-height: 1.25;
+}
+.btn-danger-soft {
+    color: #d6293e;
+    background-color: rgba(214, 41, 62, 0.1);
+}
+.btn-success-soft {
+    color: #0cbc87;
+    background-color: rgba(12, 188, 135, 0.1);
+}
+
+
+.avatar-group > li {
+    position: relative;
+}
+
+.iconos{
+    height: 3rem;
+    width: 3rem;
+    position: relative;
+    display: inline-block;
+    -ms-flex-negative: 0 !important;
+    flex-shrink: 0 !important;
+}
+
+.distancia{
+  width: 120px;
+  text-align: left;
+ 
+}
+.col-8{
+    text-align:right ;
+}
+
+.modal-footer > * {
+    margin: 0.25rem;
+}
